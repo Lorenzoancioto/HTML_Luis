@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(224, 219, 219);
+    margin-left: 75px;
+    margin-right: 75px;
+    overflow: auto;
+}
+header{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    text-shadow: 20px 20px 20px;
+    color: black;
+}
+.titulo{
+    font-weight: bold;
+    font-size: x-large;
+    text-shadow: 10px 10px 10px;
+}
+.Paragrafos{
+    margin-left: 14px;
+    font-size: x-large;
+    color: rgb(73, 63, 51);
+    background-color: rgb(213, 223, 223);
+}
+.conceitos{
+    margin-left: 14px;
+    font-size: x-large;
+    color: rgb(73, 63, 51);
+}
+
